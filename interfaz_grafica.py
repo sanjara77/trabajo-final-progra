@@ -1,9 +1,3 @@
-"""
-interfaz_grafica.py
-Interfaz gráfica para Dots and Boxes usando Tkinter.
-Incluye menú, IA, reloj de 1 minuto, temática visual arcade
-y música con winsound compatible con Python 3.14 en Windows.
-"""
 
 import tkinter as tk
 from tkinter import messagebox
