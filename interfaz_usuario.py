@@ -1,8 +1,3 @@
-"""
-interfaz_usuario.py
-Controlador/lógica del juego Dots and Boxes.
-Compatible con Python 3.14 en Windows usando winsound para música.
-"""
 
 import os
 import random
