@@ -1,7 +1,3 @@
-"""
-main.py
-Archivo principal para ejecutar el juego.
-"""
 
 from interfaz_usuario import DotsAndBoxesController
 
